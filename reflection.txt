@@ -1,0 +1,1 @@
+So far this is all making sense, I have used git many times for creating clones and for downloading other peoples work so im accumstomed to the interface. The system for pushing and pulling is simple enough for me to understand. However using the text based command line is a tiny bit uncomfortable, not bad though.
